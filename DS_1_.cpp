@@ -1,3 +1,4 @@
+// implement a student record manage ment system using arrays , funtion ,pointer  and  sturcture for storing and displaying student detail .
 #include <iostream>
 using namespace std;
 
